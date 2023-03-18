@@ -6,9 +6,9 @@ Welcome to a brief portfolio of some of my data science works.
 - You work in the accounting department of a company that sells motorcycle parts. The company operates three warehouses in a large - metropolitan area.
 - You’ve recently learned data manipulation and plotting, and suggest helping your colleague analyze past sales data. Your colleague wants - to capture sales by payment method. She also needs to know the average unit price for each product line.
 
-  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/commit/a0e6507ffba15e7939e4ae4c7aa57fc3d7cc636e)
+  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/blob/main/Images/prjt%201%20image%201.png)
   
-  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/commit/a0e6507ffba15e7939e4ae4c7aa57fc3d7cc636e)
+  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/blob/main/Images/prjt%201%20image%202.png)
 
 
 
@@ -18,8 +18,8 @@ Welcome to a brief portfolio of some of my data science works.
 - For pregnant women, we suggest the following target for women testing blood glucose levels during pregnancy: Before a meal: 95 mg/dl or less. One hour after a meal: 140 mg/dl or less. Two hours after a meal: 120 mg/dl or less.
 - You are asked to check the correlation of fasting blood sugar and how it affects pregnancy.
 
-  ![]([https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/commit/a0e6507ffba15e7939e4ae4c7aa57fc3d7cc636e)
+  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/blob/main/Images/prjt%202%20image%201.png)
   
-  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/commit/a0e6507ffba15e7939e4ae4c7aa57fc3d7cc636e)
+  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/blob/main/Images/prjt%202%20image%202.png)
     
-  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/commit/a0e6507ffba15e7939e4ae4c7aa57fc3d7cc636e)
+  ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/blob/main/Images/prjt%202%20image%203.png)
