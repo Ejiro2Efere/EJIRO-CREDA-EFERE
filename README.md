@@ -9,7 +9,7 @@ Welcome to a brief portfolio of some of my data science works.
   ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/blob/main/Images/prjt%201%20image%201.png)
   
   ![](https://github.com/Ejiro2Efere/EJIRO-CREDA-EFERE/blob/main/Images/prjt%201%20image%202.png)
-
+ 
 
 
 # [PROJECT 2: Fasting Blood Suger Level and Pregnancy] (https://github.com/Ejiro2Efere/MyFirstworks/blob/main/notebook4b27787393.ipynb)
